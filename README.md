@@ -22,3 +22,4 @@ GST calculator app.
 ## You need the following installations:
 - AndroidStudo
 - Java
+## Actual .apk file: 
