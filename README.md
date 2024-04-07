@@ -1,4 +1,4 @@
-# GST Calculator
+# GST Calculator Android app
 GST calculator app.
 <ul>
   <li>User can calculate GST for three rate slabs (5%, 12%, 18%).
@@ -20,7 +20,7 @@ GST calculator app.
 <img src="https://github.com/Samudranil-silenthero/GST/assets/64492700/2676cf47-23c6-4ab5-8f52-1848a0b1f644" width="500" height="1000"><br><br><br>
 
 ## You need the following installations:
-- AndroidStudo
+- Android Studio
 - Java
 ## Actual .apk file: app-debug.apk 
 Download this file **app-debug.apk** from the master branch on your Android device and install it to use the app.
