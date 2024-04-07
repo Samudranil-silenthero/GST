@@ -4,7 +4,15 @@ GST calculator app.
   <li>User can calculate GST for three rate slabs (5%, 12%, 18%).
   <li>This app has 2 pages only.
 </ul>
-
+<h3>Terms to know: </h3>
+<li> Taxable value= Value of a product without GST
+<br><br>
+<li> SGST= State Goods and Service Tax
+<br><br>
+<li> CGST= Central Goods and Service Tax
+<br><br>
+<li> Total= Value of a product including GST = Taxable value + SGST + CGST
+<br><br>
 <h3>The screenshots of the app are shown below: </h3>
 <li>Page 1: https://github.com/Samudranil-silenthero/GST/assets/64492700/24e76abd-3b94-47c5-bc85-c2c32e44def4
 <br><br>
