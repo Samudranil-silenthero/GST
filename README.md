@@ -8,6 +8,7 @@ GST calculator app.
 <li> Taxable value= Value of a product without GST
 <li> SGST= State Goods and Service Tax
 <li> CGST= Central Goods and Service Tax
+<li> CGST= SGST (Always)
 <li> Total= Value of a product including GST = Taxable value + SGST + CGST
 <br><br>
 <h3>The screenshots of the app are shown below: </h3>
